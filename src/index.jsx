@@ -2,8 +2,9 @@ import React, { useCallback, useEffect } from "react";
 
 function QuickShortcut({ hotkey, action }) {
   const handleShortcuts = useCallback(
-    event => {
+    (event) => {
       if (hotkey === event.key) {
+        event.preventDefault();
         action();
       }
     },
