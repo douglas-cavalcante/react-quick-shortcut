@@ -1,6 +1,6 @@
-<center>
+<p align="center">
 	<img src="https://uploaddeimagens.com.br/images/002/572/605/thumb/Sele%C3%A7%C3%A3o_073.png?1586141562" />
-</center>
+</p>
 
 <p align="center">
 	Um componente de atalhos para a sua aplicação
